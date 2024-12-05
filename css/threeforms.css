@@ -1,0 +1,17 @@
+.calc,.courseSale,.registration{
+    display: block;
+    background-color: aqua;
+    padding: 20px 30px;
+    width: 500px;
+    margin: 30px auto;
+}
+#procent{
+    display: flex;
+}
+input{
+    max-width: 400px;
+}
+#code{
+    max-width: 50px;
+    text-align: center;
+}
